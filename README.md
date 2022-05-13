@@ -3,7 +3,6 @@
 ## Table of Contents
 
 - [Description](#description)
-- [Technologies](#technologies)
 - [Available Scripts](#available-scripts)
 - [Contact](#contact)
 
@@ -16,13 +15,6 @@ This application allows the user to create, edit, and delete todos. The applicat
 This application was built by following this tutorial:
 
 <a href="https://www.youtube.com/watch?v=FJDVKeh7RJI" target="_blank">youtube.com/watch?v=FJDVKeh7RJI</a>
-
-## Technologies
-
-<ul>
-    <li>React</li>
-    <li>Typescript</li>
-</ul>
 
 ## Available Scripts
 
